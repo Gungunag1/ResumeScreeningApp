@@ -1,6 +1,6 @@
 # Resume-Screening-App
 
-### web-app-link: https://siddhraj-sinh-resumescreeningapp-webapp-qmebyy.streamlitapp.com/
+### web-app-link: https://gungunwebapp.streamlit.app/
 ## Aim
 
 * Aim of this project is to whether a candidate is qualified for a role based his or her education, experience, and other information captured on their resume. 
